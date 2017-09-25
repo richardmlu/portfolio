@@ -1,0 +1,41 @@
+html, body {
+	font-family: Times New Roman;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+p {
+	max-width: 65%;
+	min-width: 500px;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+}
+
+.main {
+  padding-left: 30px;
+  min-width: 75%;
+}
+
+.nav {
+  background-color: #FFEE00;
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
+}
+
+.nav h1 {
+  padding-left: 20px;
+}
