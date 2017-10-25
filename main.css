@@ -111,4 +111,5 @@ div {
 
 .projects-container li{
 	list-style-type: none;
+	padding-bottom: 5px;
 }
